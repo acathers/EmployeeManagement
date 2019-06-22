@@ -1,0 +1,11 @@
+*.class
+*.classpath
+*.project
+*.prefs
+*.json
+
+EmployeeManagement/.classpath
+EmployeeManagement/.project
+*.prefs
+*.json
+EmployeeManagement/.classpath
